@@ -4,6 +4,9 @@
 - 🌱 Learning JS and electronjs
 - 🧠 Knows Python
 - ⚡ Contact me: [dev-0737#0737](https://discord.com/users/736482645931720765) on discord
+
+
+![snake gif](https://github.com/dev-737/dev-737/blob/output/github-contribution-grid-snake.svg)
 <!--
 **dev-737/dev-737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
