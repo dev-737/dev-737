@@ -3,7 +3,9 @@
 - 🔭 I'm currently working on Discord Bots 
 - 🌱 Learning JS and electronjs
 - 🧠 Knows Python
-- ⚡ Contact me: [dev-0737#0737](https://discord.com/users/736482645931720765) on discord
+### ⚡ Contact me:
+- ![twitter](https://img.icons8.com/color/30/000000/twitter--v1.pn)  [Twitter](https://twitter.com/737_dev)
+- ![discord](https://img.icons8.com/color/30/000000/discord--v2.png) [dev-0737#0737](https://discord.com/users/736482645931720765) 
 
 
 ![snake gif](https://github.com/dev-737/dev-737/blob/output/github-contribution-grid-snake.svg)
