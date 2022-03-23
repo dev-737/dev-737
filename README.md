@@ -7,8 +7,8 @@
 ---
 
 ![dev-737's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-737&show_icons=true&theme=tokyonight)
-![snake gif](https://github.com/dev-737/dev-737/blob/output/github-contribution-grid-snake.svg)
 
+[//]: # "![snake gif](https://github.com/dev-737/dev-737/blob/output/github-contribution-grid-snake.svg)"
 ---
 ###  Contact me 🤝
 - ![twitter](https://img.icons8.com/color/30/000000/twitter--v1.pn)  [Twitter](https://twitter.com/737_dev)
