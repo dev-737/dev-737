@@ -1,4 +1,4 @@
-<h1 align="center"> 👋Hi there <br> <a href="https://twitter.com/dev-737"><img src="https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Twitter @dev-737"></a>
+<h1 align="center"> 👋Hi there <br> <a href="https://twitter.com/737_dev"><img src="https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Twitter @dev-737"></a>
 </h1>
 
 
