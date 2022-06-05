@@ -9,7 +9,9 @@
 <p>  ✈️ I like planes :D  </p>
 
 
-[//]: # "![snake gif](https://github.com/dev-737/dev-737/blob/output/github-contribution-grid-snake.svg)"
+ ![snake gif](https://github.com/dev-737/dev-737/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <h2 align="center"> Contact me 🤝 </h2>
 
@@ -17,6 +19,8 @@
 <img width="50%" align="left" alt="Discord Status" src="https://lanyard-profile-readme.vercel.app/api/701727675311587358?animated=true&&borderRadius=5px&idleMessage=Probably%20watching%20anime...">
 </a>
 <img width="50%" align="right" alt="Discord Status" src="https://github-readme-stats.vercel.app/api?username=dev-737&show_icons=true&theme=tokyonight">
+
+
 
 <!--
 **dev-737/dev-737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
