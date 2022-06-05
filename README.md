@@ -9,7 +9,7 @@
 <p>  ✈️ I like planes :D  </p>
 
 
- ![snake gif](https://github.com/dev-737/dev-737/blob/output/github-contribution-grid-snake.svg)
+ ![snek gif](https://github.com/dev-737/dev-737/blob/output/github-contribution-grid-snake.svg)
 
 
 
