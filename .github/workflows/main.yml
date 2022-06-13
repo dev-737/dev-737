@@ -1,7 +1,7 @@
 name: generate animation
 
 on:
-  # run automatically every sunday hours
+  # run automatically every Sunday
   schedule:
     - cron: "0 0 * * 0" 
   
