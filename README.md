@@ -3,7 +3,7 @@
 
 
 
-<p>   🌱 Learning JS, HTML5, CSS and ElectronJS </p>
+<p>   🌱 Learning HTML5, CSS, C and Assembly Language </p>
 <p>  🔭 I'm currently working on Discord Bots  </p>
 <p>  🐍 Somewhat know Python  </p>
 <p>  ✈️ I like planes :D  </p>
