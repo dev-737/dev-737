@@ -11,12 +11,12 @@
 
 <!-- ![snek gif](https://github.com/dev-737/dev-737/blob/output/github-contribution-grid-snake.svg) -->
 
-
+#
 
 <a href="https://discordapp.com/users/701727675311587358" target="_blank">
 <img width="50%" align="left" alt="Discord Status" src="https://lanyard-profile-readme.vercel.app/api/701727675311587358?animated=true&&borderRadius=5px&idleMessage=Probably%20watching%20anime...">
 </a>
-<img width="50%" align="left" alt="Discord Status" src="https://github-readme-stats.vercel.app/api?username=dev-737&show_icons=true&theme=tokyonight">
+<img width="50%" align="right" alt="Discord Status" src="https://github-readme-stats.vercel.app/api?username=dev-737&show_icons=true&theme=tokyonight">
 
 
 
