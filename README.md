@@ -5,8 +5,12 @@
 <h1 align="center">Hi 👋, I'm dev-737</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://visitcount.itsvg.in/api?id=dev-737&icon=6&color=0" align="center">
+</p> -->
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=dev-737" align="center">
 </p>
 
 # 💻 Tech Stack:
