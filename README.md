@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm dev-737</h1>
-<h3 align="center">A passionate programmer with a love of exploring the depths of programming.</h3>
+<h3 align="center">Someone who enjoys learning :)</h3>
 
 <!-- <p align="center">
  <img src="https://visitcount.itsvg.in/api?id=dev-737&icon=6&color=0" align="center">
