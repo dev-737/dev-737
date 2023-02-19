@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [ChatBot](https://dsc.gg/discord-chatbot)
 
-- 🌱 I’m currently learning **Rust, React**
+- 🌱 I’m currently learning **C++, x86 ASM**
 
 # 📊 GitHub Stats:
 ![stats](https://github-readme-stats.vercel.app/api?username=dev-737&show_icons=true&locale=en&theme=dark&include_all_commits=false&count_private=true)
